@@ -4,5 +4,6 @@ The Keras functional API is a way to create models that are more flexible and co
 
 ![alt text](https://deepmodi.com/wp-content/uploads/2020/12/image1.png)
 
-The above problem statement is for predicting house prices with multiple mixed inputs (house images and features) using a non-sequential. Thank You
+The above problem statement is for predicting house prices with multiple mixed inputs (house images and features) using a non-sequential.
+
 Dataset - https://www.kaggle.com/amir22010/house-price
